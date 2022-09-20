@@ -19,11 +19,11 @@
 
 `2022-09-19` [從 setTimeout 理解甚麼是 eventloop](https://github.com/chuchushooes/blog/issues/9)  
 `2022-08-16` [forEach 應用、for…of 和 for…in 比較](https://github.com/chuchushooes/blog/issues/8)  
-`2022-07-28` [要有這個概念- 字串就是字元組成的陣列](https://github.com/chuchushooes/blog/issues/5)
+`2022-07-28` [要有這個概念- 字串就是字元組成的陣列](https://github.com/chuchushooes/blog/issues/5)  
 `2022-07-14` [6 種 array 陣列的應用](https://github.com/chuchushooes/blog/issues/4)
 
 ## AC 心得
 
 `2022-09-19` [AC 學期 2–2 結束心得](https://github.com/chuchushooes/blog/issues/10)  
-`2022-08-06` [分享 AC 學期 2–1 心得 — JavaScript 前端開發](https://github.com/chuchushooes/blog/issues/7)
+`2022-08-06` [分享 AC 學期 2–1 心得 — JavaScript 前端開發](https://github.com/chuchushooes/blog/issues/7)  
 `2022-06-14` [AC 課前學習心得：開課前？如何有效學習](https://github.com/chuchushooes/blog/issues/1)
