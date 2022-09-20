@@ -22,6 +22,11 @@
 `2022-07-28` [要有這個概念- 字串就是字元組成的陣列](https://github.com/chuchushooes/blog/issues/5)  
 `2022-07-14` [6 種 array 陣列的應用](https://github.com/chuchushooes/blog/issues/4)
 
+## HTML/CSS
+
+`2022-07-31` [簡單解釋 HTML 內 div、span 和 p 的差別](https://github.com/chuchushooes/blog/issues/6)  
+`2022-06-28` [HTML/CSS 超基礎概念](https://github.com/chuchushooes/blog/issues/3)
+
 ## AC 心得
 
 `2022-09-19` [AC 學期 2–2 結束心得](https://github.com/chuchushooes/blog/issues/10)  
